@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop" alt="Banner Gab Tech Setup" />
+</div>
+
+<br>
+
 # 💻 Gab Tech
 
 ` Criador de Conteúdo Tech `
@@ -39,10 +45,10 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 
 <div align="center">
   <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
-    <img src="https://placehold.co/400x200/1e1e2e/ffffff?text=Projeto:+Eco+Luz+Sustentavel" width="400" alt="Projeto Eco Luz Sustentável">
+    <img src="https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Projeto Eco Luz Sustentável">
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://betficticia.netlify.app/" target="_blank">
-    <img src="https://placehold.co/400x200/1e1e2e/ffffff?text=Projeto:+Bet+Ficticia" width="400" alt="Projeto Bet Fictícia">
+    <img src="https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Projeto Bet Fictícia">
   </a>
 </div>
