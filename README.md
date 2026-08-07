@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=220&section=header&text=Gab%20Tech&fontSize=62&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Criador%20de%20Conte%C3%BAdo%20Tech&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%" alt="Gab Tech" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Reviews%20de%20Hardware;Unboxings%20e%20Montagens;Testes%20de%20Perif%C3%A9ricos;IA%20na%20Cria%C3%A7%C3%A3o%20de%20Conte%C3%BAdo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1800&pause=300&color=00F0FF&center=true&vCenter=true&width=600&lines=Reviews%20de%20Hardware;Unboxings%20e%20Montagens;Testes%20de%20Perif%C3%A9ricos;IA%20na%20Cria%C3%A7%C3%A3o%20de%20Conte%C3%BAdo" alt="Typing SVG" />
 
 </div>
 
@@ -46,7 +46,7 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
   <tr>
     <td align="center" width="50%">
       <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1677273459827-e212995b079d?q=80&w=800&auto=format&fit=crop" width="100%" alt="Eco Luz Sustentável" />
+        <img src="https://images.unsplash.com/photo-1677273459827-e212995b079d?q=80&w=700&h=420&auto=format&fit=crop" width="100%" alt="Eco Luz Sustentável" />
       </a>
       <br><br>
       <strong>🌱 Eco Luz Sustentável</strong>
@@ -63,7 +63,7 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
     </td>
     <td align="center" width="50%">
       <a href="https://betficticia.netlify.app/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1674168461824-9d7f59a9e607?q=80&w=800&auto=format&fit=crop" width="100%" alt="Bet Fictícia" />
+        <img src="https://images.unsplash.com/photo-1674168461824-9d7f59a9e607?q=80&w=700&h=420&auto=format&fit=crop&crop=entropy" width="100%" alt="Bet Fictícia" />
       </a>
       <br><br>
       <strong>🎰 Bet Fictícia</strong>
@@ -83,9 +83,7 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 
 <div align="center">
   <br>
-  <img src="https://images.unsplash.com/photo-1775410631936-7de96322df0b?q=80&w=1200&auto=format&fit=crop" width="90%" alt="Setup Gamer RGB" />
-  <br>
-  <sub>💡 Sempre testando novos setups e configurações</sub>
+  <strong>💡 Sempre testando novos setups e configurações</strong>
 </div>
 
 <br>
