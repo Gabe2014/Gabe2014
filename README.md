@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop" alt="Banner Gab Tech Setup" />
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop" alt="Banner Gab Tech" />
 </div>
 
 <br>
@@ -41,14 +41,26 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 </div>
 
 ---
+
 ### 🚀 Meus Projetos
 
 <div align="center">
-  <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Projeto Eco Luz Sustentável">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://betficticia.netlify.app/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Projeto Bet Fictícia">
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
+          <img src="https://images.unsplash.com/photo-1509391366360-2addb56a7d28?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Eco Luz">
+        </a>
+        <br>
+        <strong>Eco Luz Sustentável</strong>
+      </td>
+      <td align="center">
+        <a href="https://betficticia.netlify.app/" target="_blank">
+          <img src="https://images.unsplash.com/photo-1596838132731-3301d3fd4803?q=80&w=400&h=200&auto=format&fit=crop" width="400" alt="Bet Fictícia">
+        </a>
+        <br>
+        <strong>Bet Fictícia</strong>
+      </td>
+    </tr>
+  </table>
 </div>
