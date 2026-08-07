@@ -35,10 +35,3 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 </div>
 
 ---
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabe2014&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&v=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabe2014&layout=compact&theme=tokyonight&locale=pt-br&cache_seconds=86400&v=1" />
-</div>
