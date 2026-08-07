@@ -35,3 +35,14 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 </div>
 
 ---
+### 🚀 Meus Projetos
+
+<div align="center">
+  <a href="LINK_DO_SEU_SITE_AQUI" target="_blank">
+    <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_AQUI" width="400" alt="Projeto 1">
+  </a>
+  
+  <a href="LINK_DO_SEU_OUTRO_SITE_AQUI" target="_blank">
+    <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_2_AQUI" width="400" alt="Projeto 2">
+  </a>
+</div>
