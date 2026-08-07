@@ -2,7 +2,7 @@
 
 ` Criador de Conteúdo Tech `
 
-Olá! Me chamo **Gab**, sou criador de conteúdo focado em tecnologia, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
+Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
 
 ---
 
@@ -22,7 +22,7 @@ Olá! Me chamo **Gab**, sou criador de conteúdo focado em tecnologia, reviews d
 
 ---
 
-### ⚙️ Hardware & Sistemas
+### ⚙️ **Hardware** & Sistemas
 
 <div align="left">
   <img src="https://api.iconify.design/simple-icons:intel.svg?color=%230071C5" height="45" width="45" alt="Intel" title="Intel" />
