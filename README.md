@@ -23,12 +23,26 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em tecnologia, revie
 ### ⚙️ Hardware & Sistemas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/CPU-Intel%20%2F%20AMD-1f6feb?style=for-the-badge&logo=cpu&logoColor=white" alt="CPU" />
-  <img src="https://img.shields.io/badge/GPU-NVIDIA%20%2F%20AMD-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" />
-  <img src="https://img.shields.io/badge/Placa--Mãe-Hardware-8A2BE2?style=for-the-badge" alt="Placa-Mãe" />
-  <img src="https://img.shields.io/badge/Memória_RAM-DDR4%20%2F%20DDR5-ff69b4?style=for-the-badge" alt="RAM" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <!-- Intel Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intel/intel-original.svg" height="45" width="45" alt="Intel" title="Intel" />
+  
+  <!-- AMD Logo -->
+  <img src="https://api.iconify.design/simple-icons:amd.svg?color=%23ED1C24" height="45" width="45" alt="AMD" title="AMD" />
+  
+  <!-- NVIDIA Logo -->
+  <img src="https://api.iconify.design/simple-icons:nvidia.svg?color=%2376B900" height="45" width="45" alt="NVIDIA" title="NVIDIA" />
+  
+  <!-- Placa-Mãe (Motherboard Icon) -->
+  <img src="https://api.iconify.design/carbon:motherboard.svg?color=%238A2BE2" height="45" width="45" alt="Placa-Mãe" title="Placa-Mãe" />
+  
+  <!-- Memória RAM Icon -->
+  <img src="https://api.iconify.design/file-icons:ram.svg?color=%23FF69B4" height="45" width="45" alt="Memória RAM" title="Memória RAM" />
+  
+  <!-- Windows Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" width="45" alt="Windows" title="Windows" />
+  
+  <!-- Linux Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" title="Linux" />
 </div>
 
 ---
