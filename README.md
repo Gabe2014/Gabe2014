@@ -39,10 +39,10 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 
 <div align="center">
   <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
-    <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_AQUI" width="400" alt="Projeto 1">
+    <img src="https://placehold.co/400x200/1e1e2e/ffffff?text=Projeto:+Eco+Luz+Sustentavel" width="400" alt="Projeto Eco Luz Sustentável">
   </a>
   
   <a href="https://betficticia.netlify.app/" target="_blank">
-    <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_2_AQUI" width="400" alt="Projeto 2">
+    <img src="https://placehold.co/400x200/1e1e2e/ffffff?text=Projeto:+Bet+Ficticia" width="400" alt="Projeto Bet Fictícia">
   </a>
 </div>
