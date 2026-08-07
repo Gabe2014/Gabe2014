@@ -38,11 +38,11 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 ### 🚀 Meus Projetos
 
 <div align="center">
-  <a href="https://github.com/Gabe2014/sites.git" target="_blank">
+  <a href="https://ecoluzsustentavel.netlify.app/" target="_blank">
     <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_AQUI" width="400" alt="Projeto 1">
   </a>
   
-  <a href="https://github.com/Gabe2014/ecoluz.git" target="_blank">
+  <a href="https://betficticia.netlify.app/" target="_blank">
     <img src="LINK_DA_IMAGEM_OU_GIF_DO_SITE_2_AQUI" width="400" alt="Projeto 2">
   </a>
 </div>
