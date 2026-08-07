@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./floating-logos.svg" width="100%" alt="Marcas de hardware" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=220&section=header&text=Gab%20Tech&fontSize=62&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Criador%20de%20Conte%C3%BAdo%20Tech&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%" alt="Gab Tech" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1800&pause=300&color=00F0FF&center=true&vCenter=true&width=600&lines=Reviews%20de%20Hardware;Unboxings%20e%20Montagens;Testes%20de%20Perif%C3%A9ricos;IA%20na%20Cria%C3%A7%C3%A3o%20de%20Conte%C3%BAdo" alt="Typing SVG" />
