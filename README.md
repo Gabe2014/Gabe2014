@@ -2,11 +2,13 @@
 
 ` Criador de Conteúdo Tech `
 
-Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em tecnologia, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
+Olá! Me chamo **Gab**, sou criador de conteúdo focado em tecnologia, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
 
 ---
 
-<div>
+### 🌐 Redes Sociais
+
+<div align="left">
   <a href="https://www.youtube.com/@Gab_tech2" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -23,33 +25,25 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em tecnologia, revie
 ### ⚙️ Hardware & Sistemas
 
 <div align="left">
-  <!-- Intel Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intel/intel-original.svg" height="45" width="45" alt="Intel" title="Intel" />
-  
-  <!-- AMD Logo -->
   <img src="https://api.iconify.design/simple-icons:amd.svg?color=%23ED1C24" height="45" width="45" alt="AMD" title="AMD" />
-  
-  <!-- NVIDIA Logo -->
   <img src="https://api.iconify.design/simple-icons:nvidia.svg?color=%2376B900" height="45" width="45" alt="NVIDIA" title="NVIDIA" />
-  
-  <!-- Placa-Mãe (Motherboard Icon) -->
   <img src="https://api.iconify.design/carbon:motherboard.svg?color=%238A2BE2" height="45" width="45" alt="Placa-Mãe" title="Placa-Mãe" />
-  
-  <!-- Memória RAM Icon -->
   <img src="https://api.iconify.design/file-icons:ram.svg?color=%23FF69B4" height="45" width="45" alt="Memória RAM" title="Memória RAM" />
-  
-  <!-- Windows Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" width="45" alt="Windows" title="Windows" />
-  
-  <!-- Linux Logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" title="Linux" />
 </div>
 
 ---
 
-### 🤖 Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
+  <!-- Estatísticas do GitHub (Atualiza Automático) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gabe2014&show_icons=true&theme=tokyonight&locale=pt-br" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe2014&layout=compact&theme=tokyonight&locale=pt-br" width="49%" />
+  
+  <!-- Estatísticas do TikTok (Atualização Manual na URL abaixo) -->
+  <a href="https://www.tiktok.com/@gab_tech1" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=25F4EE&background=1a1b26&center=true&vCenter=true&width=420&height=195&lines=Estatisticas+do+TikTok;Seguidores:+10.5K;Curtidas:+150K;Views:+500K" width="49%" alt="TikTok Stats" />
+  </a>
 </div>
