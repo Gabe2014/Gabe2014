@@ -2,34 +2,33 @@
 
 ` Criador de Conteúdo Tech `
 
-Olá! Me chamo **Gab**, sou criador de conteúdo focado em tecnologia, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
+Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em tecnologia, reviews de hardware, unboxings e montagem de setups. Compartilho vídeos curtos, análises completas e testes práticos de periféricos e componentes, além de explorar como a inteligência artificial ajuda na criação de conteúdo no dia a dia.
 
 ---
 
 <div>
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@Gab_tech2" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/gab_tech1?igsh=MXIxcWJsbnllNW1udw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com" target="_blank">
+  <a href="https://www.tiktok.com/@gab_tech1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
 
 ---
 
-### 🤖 Tópicos & Tecnologias
+### ⚙️ Hardware & Sistemas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" alt="windows" />
+  <img src="https://img.shields.io/badge/CPU-Intel%20%2F%20AMD-1f6feb?style=for-the-badge&logo=cpu&logoColor=white" alt="CPU" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA%20%2F%20AMD-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" />
+  <img src="https://img.shields.io/badge/Placa--Mãe-Hardware-8A2BE2?style=for-the-badge" alt="Placa-Mãe" />
+  <img src="https://img.shields.io/badge/Memória_RAM-DDR4%20%2F%20DDR5-ff69b4?style=for-the-badge" alt="RAM" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
