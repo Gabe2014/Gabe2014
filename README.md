@@ -22,7 +22,7 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 
 ---
 
-### ⚙️ **Hardware** & Sistemas
+### ⚙️ Hardware & Sistemas
 
 <div align="left">
   <img src="https://api.iconify.design/simple-icons:intel.svg?color=%230071C5" height="45" width="45" alt="Intel" title="Intel" />
@@ -39,11 +39,6 @@ Olá! Me chamo **Gabriel**, sou criador de conteúdo focado em **tecnologia**, r
 ### 📊 Estatísticas
 
 <div align="center">
-  <!-- Estatísticas do GitHub (Atualiza Automático) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabe2014&show_icons=true&theme=tokyonight&locale=pt-br" width="49%" />
-  
-  <!-- Estatísticas do TikTok (Atualização Manual na URL abaixo) -->
-  <a href="https://www.tiktok.com/@gab_tech1" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=25F4EE&background=1a1b26&center=true&vCenter=true&width=420&height=195&lines=Estatisticas+do+TikTok;Seguidores:+10.5K;Curtidas:+150K;Views:+500K" width="49%" alt="TikTok Stats" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabe2014&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe2014&layout=compact&theme=tokyonight&locale=pt-br" />
 </div>
